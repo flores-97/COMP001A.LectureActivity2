@@ -1,0 +1,18 @@
+/*********************************************************
+* Description: Primary style sheet for valleytownhall.com
+* Author: Anne Boehm
+*********************************************************/
+body{
+    background-color: #facd8a; /*this is a shade of orange.*/
+}
+h1{
+    color: #363636;
+}
+h2{
+    font-style: italic;
+    border-bottom: 3px solid #ef9c00; /*added a line below h2*/
+}
+
+ul{
+    list-style-type: square; /*changed bullets to squares*/
+}
