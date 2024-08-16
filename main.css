@@ -17,5 +17,5 @@ ul{
     list-style-type: square; /*changed bullets to squares*/
 }
 .content{
-    background-color: blu;/*intentionally misspelled the color blue*/
+    background-color: blue;/*intentionally misspelled the color blue*/
 }
